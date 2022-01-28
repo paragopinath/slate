@@ -22,5 +22,5 @@
     "jest": "22.4.2",
     "react-dev-utils": "0.5.2"
   },
-  "resolutions": { "**/@shopify/themekit": "^1.1.7" },
+  "resolutions": { "**/@shopify/themekit": "^1.1.7" }
 }
